@@ -1,0 +1,325 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = "A very good battle, indeed!"
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "Very good."
+Pokemon = GEODUDE,12
+    Gender = male
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    Ability = 0
+    IV = 20
+Pokemon = ONIX,14
+    Name = Rocky
+    Gender = male
+    Shiny = yes
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    Ability = 0
+    Item = SITRUSBERRY
+    IV = 20
+    Ball = 19
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = "You're too good for me!"
+Pokemon = WEEPINBELL,21
+    Shadow = yes
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = "You're too good for me!"
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = yes
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = "Aww, I lost."
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = "A very good battle, indeed!"
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = "You beat me again!"
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = "Defeated! Oh my!"
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = "Defeated! Oh my!"
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = "You're too good for me!"
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = "Washed out!"
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = "My Skitty!"
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = "Our teamwork failed!"
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_Brendan,Brendan]
+Pokemon = MARSHTOMP,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = "Washed out!"
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = "A good battle indeed!"
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[YOUNGTRAINER,Alexander]
+LoseText = "Not cool!"
+Pokemon = MIENSHAO,83
+    Gender = female
+    Moves = HIGHJUMPKICK,KNOCKOFF,UTURN,STONEEDGE
+    Ability = 1
+    Item = LIFEORB
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,4
+Pokemon = WEAVILE,82
+    Gender = male
+    Moves = KNOCKOFF,ICICLECRASH,PURSUIT,ICESHARD
+    Ability = 0
+    Item = CHOICEBAND
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 0,252,4,252,0,0
+Pokemon = VANILLUXE,84
+    Moves = FREEZEDRY,BLIZZARD,TAUNT,TOXIC
+    Ability = 1
+    Item = ICYROCK
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+Pokemon = JELLICENT,83
+    Gender = female
+    Moves = RECOVER,WILLOWISP,HEX,SCALD
+    Ability = 1
+    Item = LEFTOVERS
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    EV = 252,0,224,32,0,0
+    Happiness = 255
+Pokemon = GLALIE,85
+    Gender = male
+    Moves = PROTECT,SUBSTITUTE,SHEERCOLD,FREEZEDRY
+    Ability = 2
+    Item = LEFTOVERS
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 172,0,0,252,0,84
+Pokemon = SPHEAL,95
+	Name = Chonky
+    Moves = SHEERCOLD,SURF,FREEZEDRY,AQUARING
+    Ability = 0
+    Item = LEFTOVERS
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    EV = 4,0,252,0,0,252
+#-------------------------------
+[ARCHITECT,Linnéa]
+LoseText = "Very good."
+Pokemon = DONPHAN,94
+    Gender = female
+    Moves = STEALTHROCK,ICESHARD,EARTHQUAKE,RAPIDSPIN
+    Ability = 0
+    Item = LEFTOVERS
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 252,252,4,0,0,0
+Pokemon = SYLVEON,98
+    Gender = female
+    Moves = HYPERVOICE,WISH,PROTECT,HEALBELL
+    Ability = 2
+    Item = LEFTOVERS
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    EV = 252,0,252,0,4,0
+Pokemon = ARTICUNO,97
+    Moves = FREEZEDRY,ROOST,SUBSTITUTE,HURRICANE
+    Ability = 0
+    Item = LEFTOVERS
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+Pokemon = LOPUNNY,96
+    Gender = female
+    Moves = HIGHJUMPKICK,FAKEOUT,POWERUPPUNCH,RETURN
+    Ability = 0
+    Item = LOPUNNITE
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,4
+    Happiness = 255
+Pokemon = CONKELDURR,95
+    Gender = male
+    Moves = MACHPUNCH,DRAINPUNCH,THUNDERPUNCH,STONEEDGE
+    Ability = 1
+    Item = ASSAULTVEST
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,4,0,252
+Pokemon = METAGROSS,94
+    Moves = AGILITY,METEORMASH,ZENHEADBUTT,BULLETPUNCH
+    Ability = 0
+    Item = LIFEORB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,4,0,252
+#-------------------------------
+[ARTIST,Filip]
+LoseText = "I'll tell my brother about this."
+Pokemon = SEISMITOAD,95
+    Moves = STEALTHROCK,SCALD,KNOCKOFF,EARTHQUAKE
+    Ability = 2
+    Item = LEFTOVERS
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+    EV = 252,0,252,0,0,4
+    Happiness = 255
+Pokemon = ALAKAZAM,98
+    Gender = male
+    Moves = PSYCHIC,NASTYPLOT,FOCUSBLAST,RECOVER
+    Ability = 2
+    Item = LIFEORB
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,0,4,252,252,0
+    Happiness = 255
+Pokemon = MUK,97
+    Gender = male
+    Moves = POISONJAB,CURSE,FIREPUNCH,SHADOWSNEAK
+    Ability = 2
+    Item = BLACKSLUDGE
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+    EV = 248,0,8,12,0,240
+    Happiness = 255
+Pokemon = ZAPDOS,96
+    Moves = THUNDERBOLT,ROOST,HEATWAVE,HURRICANE
+    Ability = 2
+    Item = ROCKYHELMET
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    EV = 252,0,184,72,0,0
+    Happiness = 255
+Pokemon = GENGAR,95
+    Gender = female
+    Moves = SLUDGEWAVE,SHADOWBALL,DESTINYBOND,PROTECT
+    Ability = 0
+    Item = GENGARITE
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,0,4,252,252,0
+Pokemon = DRAGONITE,99
+    Moves = DRAGONDANCE,EXTREMESPEED,EARTHQUAKE,OUTRAGE
+    Ability = 2
+    Item = LEFTOVERS
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,4
+    Happiness = 255
+#-------------------------------
+[LOGICIAN,Viktor]
+LoseText = "It happened."
+Pokemon = REGISTEEL,98
+    Moves = STEALTHROCK,FLASHCANNON,PROTECT,TOXIC
+    Ability = 0
+    Item = LEFTOVERS
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    EV = 252,0,252,4,0,0
+    Happiness = 255
+Pokemon = WAILORD,99
+    Gender = male
+    Moves = EARTHPOWER,SURF,ICEBEAM,HAZE
+    Ability = 2
+    Item = LEFTOVERS
+    Nature = CALM
+    IV = 31,31,31,31,31,31
+    EV = 0,0,252,0,4,252
+    Happiness = 255
+Pokemon = GARCHOMP,96
+    Gender = male
+    Moves = EARTHQUAKE,DRAGONRUSH,SWORDSDANCE,POISONJAB
+    Ability = 2
+    Item = LIFEORB
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,4,0,252
+    Happiness = 255
+Pokemon = BLAZIKEN,100
+    Gender = male
+    Moves = BLAZEKICK,STONEEDGE,PROTECT,SUPERPOWER
+    Ability = 2
+    Item = BLAZIKENITE
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 156,252,0,100,0,0
+    Happiness = 255
+Pokemon = MOLTRES,97
+    Moves = MYSTICALFIRE,AIRSLASH,WILLOWISP,DEFOG
+    Ability = 2
+    Item = PHOENIXFLAME
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+    Happiness = 255
+Pokemon = CRADILY,96
+    Gender = female
+    Moves = ROCKBLAST,SEEDBOMB,CURSE,INGRAIN
+    Ability = 2
+    Item = BIGROOT
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+    EV = 252,4,0,0,0,252
